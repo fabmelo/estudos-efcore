@@ -1,0 +1,16 @@
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.deps.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.runtimeconfig.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.runtimeconfig.dev.json
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.dll
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.2\EFCore.WebAPI.pdb
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.csprojAssemblyReference.cache
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorAssemblyInfo.cache
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorAssemblyInfo.cs
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.AssemblyInfoInputs.cache
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.AssemblyInfo.cs
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.RazorTargetAssemblyInfo.cache
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.dll
+E:\Estudos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.2\EFCore.WebAPI.pdb
